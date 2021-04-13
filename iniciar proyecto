@@ -1,0 +1,10 @@
+git init
+git branch -m master main
+crear repositorio en github
+copiar https
+git remote add origin 'url'
+git remote -v
+git pull origin main
+git add .
+git commit -m "mensaje"
+git push origin main
