@@ -1,1 +1,6 @@
+git config: muestra todas las configuraciones de git
+git config --list: ver las configuraciones por defecto de mi Git
+git config --list --show-origin: ver donde estan las configuraciones guardadas
 
+git config --global user.name "nombreUsuario": cambiar el nombre de usuario de manera global, esto para que en el momento que se haga un commit sepamos que usuario lo realizó
+git config --global user.email "example@email.com"
